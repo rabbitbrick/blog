@@ -1,6 +1,6 @@
 # site settings
-title: Rabbit Eat Apple @Blog
-subtitle: @Information Security
+title: Rabbit Eat Apple
+subtitle: Blog
 email: chaaa463@gmail.com
 description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/blog" # the subpath of your site, e.g. /blog
